@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoanitelli&theme=dracula" />
+  <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=joaoanitelli&theme=dracula" />-->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoanitelli&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
