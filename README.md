@@ -11,7 +11,7 @@
 </div>
 
 ### 🛠️ Tecnologias que trabalho!
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Joao-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Joao-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joao-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
